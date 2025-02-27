@@ -16,7 +16,7 @@ int main(int _argv, char **_argc) {
         printf("%03d", (int)input[i]);
     }
     
-    printf("\n");
+    printf("013\n");
 
     return 0;
   } 
