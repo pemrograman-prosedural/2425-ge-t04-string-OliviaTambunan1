@@ -15,8 +15,6 @@ int main(int _argv, char **_argc) {
     for (int i = 0; i < strlen(input); i++) {
         printf("%03d", (int)input[i]);
     }
-    
-    printf("\n");
 
     return 0;
   } 

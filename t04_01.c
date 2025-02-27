@@ -24,7 +24,7 @@ int main(int _argv, char **_argc) {
     }
     output[j] = '\0';
 
-    printf("Output: %s\n", output);
+    printf("%s\n", output);
 
 
   return 0;
